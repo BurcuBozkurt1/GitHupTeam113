@@ -6,5 +6,6 @@ public class gitHup_ilkDers {
         System.out.println("===============");
         System.out.println("have a wise day");
 
+        System.out.println("gitadd-commit-push");
     }
 }
